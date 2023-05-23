@@ -1,3 +1,18 @@
-# login-form
+<h1 align="center">Formulário Login</h1>
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-ypxetp)
+<div align="center" id="top">
+  <img src="./img/Login-design.png" alt="Formulário Login"/>
+
+</div>
+
+## 📁 Sobre o Projeto
+
+Exercício feito para praticar meus conhecimentos com HTML, CSS e JavaScript, Foi inspirado em um projeto existente.
+
+##
+
+## 🚀 Tecnologias Utilizadas
+
+- HTML
+- CSS
+- JavaScript
