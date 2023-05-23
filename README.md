@@ -7,7 +7,7 @@
 
 ## 📁 Sobre o Projeto
 
-Exercício feito para praticar meus conhecimentos com HTML, CSS e JavaScript, Foi inspirado em um projeto existente.
+Exercício feito para praticar meus conhecimentos com HTML, CSS e JavaScript, foi inspirado em um projeto existente.
 
 ##
 
